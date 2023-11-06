@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aahiljivani
+- 👋 Hi, my name is Aahil! (or you can call me AJ)
 - 👀 I’m interested in Data Science, Artificial Intelligence, Web Scraping, Data Analysis, Calisthenics, Bouldering, Yoga, Hiking. 
 - 🌱 I’m currently learning Web Scraping, Machine Learning, NLP
 - 💞️ I’m looking to collaborate on Pretty much anything!
