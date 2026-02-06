@@ -1,18 +1,12 @@
 # Hi, I'm Aahil (AJ) Jivani!
 
-I'm an MSc student passionate about Financial Engineering, Deep Reinforcement Learning (DRL), and Data Science. My focus is on building predictive models and algorithmic strategies for financial markets, blending machine learning with quantitative finance. Currently, I'm diving deep into Reinforcement Learning: An Introduction by Sutton and Barto to master DRL for portfolio optimization and trading.
+I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Multi-Tasking World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
 
 **Interests & Skills**
 
-- **Financial Engineering**
 - **Deep Reinforcement Learning**
-- **Data Science & AI**
+- **Continual Reinforcement Learning**
 - **Calisthenics, bouldering, yoga, and hiking keep me balanced!**
-
-**Currently Learning**
-
-Deepening my understanding of RL through Sutton and Barto, focusing on MDPs, value functions, and policy gradients for DRL.
-Experimenting with financial datasets (e.g., yfinance, CKAN API) to apply ML/DRL in real-world contexts.
 
 **Key Projects**
 
