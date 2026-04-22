@@ -1,6 +1,6 @@
 # Hi, I'm Aahil (AJ) Jivani!
 
-I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Multi-Tasking World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
+I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Conntinual Learning, World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
 
 **Interests & Skills**
 
@@ -10,9 +10,8 @@ I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passio
 
 **Key Projects**
 
+Physical AI Box Packing Challenge: Built a custom mujoco based simulation meant for training a box packing policy that runs on sac in a curriculum learning methodology as part of Dexterity.AI's box packing challenge. 
 LSTM-Stock-Returns-Predictions: Built an LSTM model with PyTorch to predict stock returns, incorporating log returns, technical indicators (RSI, MACD), and market data (S&P 500, VIX).
-
-Financial-Engineering: Exploring quantitative finance models, with plans to integrate DRL for trading strategies.
 
 bike-share-predictive-modeling: Developed a classification model to predict Toronto Bike Share user types, showcasing ETL and feature engineering.
 
