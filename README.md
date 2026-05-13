@@ -1,6 +1,6 @@
 # Hi, I'm Aahil (AJ) Jivani!
 
-I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Conntinual Learning, World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
+I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Continual Learning, World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
 
 **Interests & Skills**
 
