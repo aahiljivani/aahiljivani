@@ -9,7 +9,7 @@ MSc researcher working on **continual and model-based reinforcement learning for
 - Vectorized Environments & Benchmarking
 
 **Current Flagship Project**
-**[ContinualBench](https://github.com/aahiljivani/ContinualBench)** — A benchmarking framework and training pipeline for continual RL in vectorized robotic environments. Developed a config system, training entry points, and evaluation workflows to systematically measure how agents retain and transfer knowledge across task sequences.
+**[CREMMA](https://github.com/aahiljivani/CREMMA)** — A benchmarking framework and training pipeline for continual RL in vectorized robotic environments. Developed a config system, training entry points, and evaluation workflows to systematically measure how agents retain and transfer knowledge across task sequences.
 
 
 
