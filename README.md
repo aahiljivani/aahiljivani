@@ -10,7 +10,10 @@ I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passio
 
 **Key Projects**
 
-Physical AI Box Packing Challenge: Built a custom mujoco based simulation meant for training a box packing policy that runs on sac in a curriculum learning methodology as part of Dexterity.AI's box packing challenge. 
+Currently improving on ContinualBench to include single task training on parallel environments https://github.com/sail-sg/ContinualBench.
+
+Physical AI Box Packing Challenge: Built a custom mujoco based simulation meant for training a box packing policy that runs on sac in a curriculum learning methodology as part of Dexterity.AI's box packing challenge. Completely failed this challenge, my policy could not predict positioning of z accurately inside the api challenge but I learned alot. 
+
 LSTM-Stock-Returns-Predictions: Built an LSTM model with PyTorch to predict stock returns, incorporating log returns, technical indicators (RSI, MACD), and market data (S&P 500, VIX).
 
 bike-share-predictive-modeling: Developed a classification model to predict Toronto Bike Share user types, showcasing ETL and feature engineering.
