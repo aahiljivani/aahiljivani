@@ -1,35 +1,28 @@
 # Hi, I'm Aahil (AJ) Jivani!
 
-I'm an MSc student and Faculty Affiliate Researcher with Vector Institute passionate about Continual Learning, World Models, Sim2Real, Model-Based Reinforcement Learning, and Deep Learning.
+MSc researcher working on **continual and model-based reinforcement learning for robotics**. I am a Faculty Affiliate Researcher with the Vector Institute, focusing on how agents can efficiently learn and adapt across sequences of tasks in simulated robotic environments.
 
-**Interests & Skills**
+**Research Interests**
+- Continual Reinforcement Learning
+- Model-Based RL & World Models
+- Sim2Real Transfer & Robotics
+- Vectorized Environments & Benchmarking
 
-- **Deep Reinforcement Learning**
-- **Continual Reinforcement Learning**
-- **Calisthenics, bouldering, yoga, and hiking keep me balanced!**
+**Current Flagship Project**
+**[ContinualBench](https://github.com/aahiljivani/ContinualBench)** — A benchmarking framework and training pipeline for continual RL in vectorized robotic environments. Developed a config system, training entry points, and evaluation workflows to systematically measure how agents retain and transfer knowledge across task sequences.
 
-**Key Projects**
+**Secondary Project**
+**[cb-mjax](https://github.com/aahiljivani/cb-mjax)** — JAX/MJX implementation work supporting efficient physics simulation and model-based RL research.
 
-Currently improving on ContinualBench to include single task training on parallel environments https://github.com/sail-sg/ContinualBench.
+**Selected Projects**
+- [truck_packing_rl](https://github.com/aahiljivani/truck_packing_rl) — SAC-based box packing policy in a custom MuJoCo simulation for a curriculum learning challenge.
+- [RL-Value_Based_Methods](https://github.com/aahiljivani/RL-Value_Based_Methods) — Value-based RL algorithms (DQN, Double DQN, Dueling DQN) implemented from scratch on Gymnasium.
+- [Policy_Gradient_Methods](https://github.com/aahiljivani/Policy_Gradient_Methods) — Policy gradient methods including REINFORCE, implemented from scratch.
+- [Multi_Layer_Perceptron_Scratch](https://github.com/aahiljivani/Multi_Layer_Perceptron_Scratch) — NumPy-based neural network from scratch, mastering backpropagation and calculus fundamentals.
 
-Physical AI Box Packing Challenge: Built a custom mujoco based simulation meant for training a box packing policy that runs on sac in a curriculum learning methodology as part of Dexterity.AI's box packing challenge. Completely failed this challenge, my policy could not predict positioning of z accurately inside the api challenge but I learned alot. 
+**Contact**
+- Email: jivani.aahil@gmail.com
+- LinkedIn: [Aahil Jivani](https://www.linkedin.com/in/aahiljivani)
 
-LSTM-Stock-Returns-Predictions: Built an LSTM model with PyTorch to predict stock returns, incorporating log returns, technical indicators (RSI, MACD), and market data (S&P 500, VIX).
-
-bike-share-predictive-modeling: Developed a classification model to predict Toronto Bike Share user types, showcasing ETL and feature engineering.
-
-Multi_Layer_Perceptron_Scratch: Implemented a neural network from scratch using NumPy, mastering backpropagation for non-linear function approximation.
-
-RL Algorithms from Scratch: Computing RL Agents from scratch to get an in-depth understanding of RL algorithms
-
-Dataset-Visualizations: Created EDA visualizations (e.g., pair-plots) for large datasets using Pandas and Seaborn.
-
-**Collaboration & Contact**
-
-Open to Collaborate: Excited to work on financial modeling, DRL, or data science projects!
-
-Email: jivani.aahil@gmail.com
-
-LinkedIn: Aahil Jivani
-
-
+---
+Open to research collaboration in continual RL, model-based methods, and robotics simulation.
