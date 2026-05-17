@@ -11,8 +11,7 @@ MSc researcher working on **continual and model-based reinforcement learning for
 **Current Flagship Project**
 **[ContinualBench](https://github.com/aahiljivani/ContinualBench)** — A benchmarking framework and training pipeline for continual RL in vectorized robotic environments. Developed a config system, training entry points, and evaluation workflows to systematically measure how agents retain and transfer knowledge across task sequences.
 
-**Secondary Project**
-**[cb-mjax](https://github.com/aahiljivani/cb-mjax)** — JAX/MJX implementation of ContinualBench supporting efficient physics simulation.
+
 
 **Selected Projects**
 - [truck_packing_rl](https://github.com/aahiljivani/truck_packing_rl) — SAC-based box packing policy in a custom MuJoCo simulation for a PhysAI Challenge.
