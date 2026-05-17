@@ -15,7 +15,7 @@ MSc researcher working on **continual and model-based reinforcement learning for
 **[cb-mjax](https://github.com/aahiljivani/cb-mjax)** — JAX/MJX implementation work supporting efficient physics simulation and model-based RL research.
 
 **Selected Projects**
-- [truck_packing_rl](https://github.com/aahiljivani/truck_packing_rl) — SAC-based box packing policy in a custom MuJoCo simulation for a curriculum learning challenge.
+- [truck_packing_rl](https://github.com/aahiljivani/truck_packing_rl) — SAC-based box packing policy in a custom MuJoCo simulation for a PhysAI Challenge.
 - [RL-Value_Based_Methods](https://github.com/aahiljivani/RL-Value_Based_Methods) — Value-based RL algorithms (DQN, Double DQN, Dueling DQN) implemented from scratch on Gymnasium.
 - [Policy_Gradient_Methods](https://github.com/aahiljivani/Policy_Gradient_Methods) — Policy gradient methods including REINFORCE, implemented from scratch.
 - [Multi_Layer_Perceptron_Scratch](https://github.com/aahiljivani/Multi_Layer_Perceptron_Scratch) — NumPy-based neural network from scratch, mastering backpropagation and calculus fundamentals.
